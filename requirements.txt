@@ -2,3 +2,5 @@ nltk
 scikit-learn
 ipykernel
 pandas
+matplotlib
+seaborn
